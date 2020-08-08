@@ -1,0 +1,69 @@
+#sitesize {
+		padding: 1% 15% 3%;
+		background-color: #DCDCDC;
+}
+
+#Links {
+	
+	background-color: #FF8C00; 
+	vertical-align: center;
+	align-content: center;
+	padding: 12px 15px 12px;
+	
+
+}
+
+.yellow {
+	background-color: #FFFF99;
+
+}
+
+.header {
+	background-color: #4666B4;
+	color:white;
+	text-indent: 2%;
+}
+
+h2 {
+	font-weight: bold;
+	text-indent: 2%;
+
+}
+
+h3 {
+	font-weight: bold;
+	text-indent: 2%;
+}
+
+p {
+	font-size: 18px;
+	margin: 2%;
+}
+
+li {
+	font-size: 18px;
+	margin: 2%;
+}
+
+.footer {
+	background-color: #4666B4;
+	color:white;
+	text-indent: 2%;
+	text-align: left;
+
+	}
+
+.img {
+	float: left;
+	margin: 1%
+}
+button {
+	height: 55px;
+	width: 190px;
+	background-color: #0000A0; 
+	color: white; 
+	font-size: 21px;
+	border-color: dark blue;
+	text-align: left;
+}
+
